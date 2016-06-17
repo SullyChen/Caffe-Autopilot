@@ -8,6 +8,8 @@ A car autopilot system developed using C++, [BVLC Caffe](https://github.com/BVLC
 
 [Video here](https://www.youtube.com/watch?v=fSbWnQ_wzvM)
 
+[Datasets and models](https://drive.google.com/open?id=0B-KJCaaF7ellNFVFSUpVWGlTUWM)
+
 ## How it works
 
 Deep convolutional neural nets are powerful.

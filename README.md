@@ -21,4 +21,4 @@ The purpose of the preprocessing is to make less work for the convolutional neur
 
 Then, [BVLC Caffe](https://github.com/BVLC/caffe) is used to train a deep convolutional neural network (specifically AlexNet).
 
-To predict steering angles based on input images, a weighted sum of the BVLC Caffe classifier outputs are used to calculate the final angle. Some smoothing algorithms are also used to smooth the motion of the predicted steering wheel angle.
+To predict steering angles based on input images, a weighted sum of the BVLC Caffe classifier outputs is used to calculate the final angle. Some smoothing algorithms are also used to smooth the motion of the predicted steering wheel angle.

@@ -1,6 +1,6 @@
 # Caffe-Autopilot
 
-**This software is for demonstration purposes only. Please _DO_ _NOT_ use this to pilot a car!**
+**This software is for video demonstration purposes only. Please _DO_ _NOT_ use this to pilot a car!**
 
 A car autopilot system developed using C++, [BVLC Caffe](https://github.com/BVLC/caffe), [OpenCV](http://opencv.org/), and [SFML](http://www.sfml-dev.org/)
 

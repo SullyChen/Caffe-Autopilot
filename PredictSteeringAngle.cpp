@@ -3,6 +3,8 @@
 //  Created by Sully Chen
 //  Copyright © 2015 Sully Chen. All rights reserved.
 
+//This software is for video demonstration purposes only. Please DO NOT use this to pilot a car!
+
 #include <iostream>
 #include <caffe/caffe.hpp>
 #define USE_OPENCV = 1;
